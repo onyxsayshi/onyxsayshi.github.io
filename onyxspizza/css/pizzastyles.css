@@ -1,0 +1,36 @@
+@charset "utf-8";
+body img {
+    float: none;
+}
+html {
+    background-color: rgba(0,0,0,1.00);
+}
+#bodyimg {
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(249,249,249,1.00);
+}
+#pizzaimg2 {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+#p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+
+#p {
+}
+#p {
+}
+#im1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
